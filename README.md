@@ -1,1 +1,7 @@
-This is hello world.
+Hello-World
+===========
+
+# このプロジェクトについて
+-------------------------
+* これはGitHubを使う実験のプロジェクトです
+* Markdown記法を使ってREADME.mdを書いています
